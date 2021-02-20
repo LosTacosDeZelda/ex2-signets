@@ -1,0 +1,21 @@
+.Entete{
+    display: flex;
+    justify-content: space-between;
+
+    background-color: rgb(43, 43, 43);
+    color: white;
+    padding: 5px;
+    padding-left: 20px;
+
+   
+    .userInfo{
+        display: flex;
+
+        .Avatar{
+            margin: auto 15px;
+        }
+    }
+
+    
+
+}

@@ -1,0 +1,40 @@
+.ListeDossiers{
+    display: grid;
+    width: fit-content;
+    margin: 20px auto;
+    
+    grid-template-columns: 300px 300px 300px 300px;
+    grid-gap: 20px;
+    
+    
+}
+
+@media screen and (max-width: 1375px){
+
+    .ListeDossiers{
+        grid-template-columns: 300px 300px 300px;
+       
+    }
+    
+
+}
+
+@media screen and (max-width: 930px){
+
+    .ListeDossiers{
+        grid-template-columns: 300px 300px;
+       
+    }
+    
+
+}
+
+@media screen and (max-width: 635px){
+
+    .ListeDossiers{
+        grid-template-columns: 300px;
+       
+    }
+    
+
+}
