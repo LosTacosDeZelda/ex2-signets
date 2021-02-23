@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b3842ce.chunk.css",
-    "main.js": "/static/js/main.cb721b03.chunk.js",
-    "main.js.map": "/static/js/main.cb721b03.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0a6c9e0f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0a6c9e0f.js.map",
-    "static/js/2.3cf166fc.chunk.js": "/static/js/2.3cf166fc.chunk.js",
-    "static/js/2.3cf166fc.chunk.js.map": "/static/js/2.3cf166fc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3b3842ce.chunk.css.map": "/static/css/main.3b3842ce.chunk.css.map",
-    "static/js/2.3cf166fc.chunk.js.LICENSE.txt": "/static/js/2.3cf166fc.chunk.js.LICENSE.txt",
-    "static/media/Raph.0f4cbd8c.jpg": "/static/media/Raph.0f4cbd8c.jpg"
+    "main.css": "/ex2-signets/static/css/main.3b3842ce.chunk.css",
+    "main.js": "/ex2-signets/static/js/main.cb721b03.chunk.js",
+    "main.js.map": "/ex2-signets/static/js/main.cb721b03.chunk.js.map",
+    "runtime-main.js": "/ex2-signets/static/js/runtime-main.632bfe32.js",
+    "runtime-main.js.map": "/ex2-signets/static/js/runtime-main.632bfe32.js.map",
+    "static/js/2.3cf166fc.chunk.js": "/ex2-signets/static/js/2.3cf166fc.chunk.js",
+    "static/js/2.3cf166fc.chunk.js.map": "/ex2-signets/static/js/2.3cf166fc.chunk.js.map",
+    "index.html": "/ex2-signets/index.html",
+    "static/css/main.3b3842ce.chunk.css.map": "/ex2-signets/static/css/main.3b3842ce.chunk.css.map",
+    "static/js/2.3cf166fc.chunk.js.LICENSE.txt": "/ex2-signets/static/js/2.3cf166fc.chunk.js.LICENSE.txt",
+    "static/media/Raph.0f4cbd8c.jpg": "/ex2-signets/static/media/Raph.0f4cbd8c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a6c9e0f.js",
+    "static/js/runtime-main.632bfe32.js",
     "static/js/2.3cf166fc.chunk.js",
     "static/css/main.3b3842ce.chunk.css",
     "static/js/main.cb721b03.chunk.js"
