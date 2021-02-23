@@ -1,5 +1,4 @@
-import './Signet.scss';
-import Dossier from './Dossier';
+import '../sass/Signet.scss';
 import ListeDossiers from './ListeDossiers';
 import Entete from './Entete';
 import BoutonPlus from './BoutonPlus';
@@ -8,7 +7,7 @@ import BoutonPlus from './BoutonPlus';
 export default function Signet() {
 
   return (
-    <div className="Appli">
+    <div className="Signet">
         <Entete/>
         <ListeDossiers/>
         <BoutonPlus/>

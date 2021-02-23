@@ -1,4 +1,5 @@
-import "./Entete.scss";
+import "../sass/Entete.scss";
+import avatar from '../images/Raph.jpg'
 import Avatar from '@material-ui/core/Avatar';
 
 export default function Entete(props) {
@@ -7,7 +8,7 @@ export default function Entete(props) {
           <p>Signets (Beta)</p>
           <div className='userInfo'>
             <p>Raphaël Jeudy</p>
-            <Avatar className='Avatar' src="img/avatars/Raph.jpg"></Avatar>
+            <Avatar className='Avatar' src={avatar} alt="Raphaël Jeudy"></Avatar>
           </div>
       </header>
     );

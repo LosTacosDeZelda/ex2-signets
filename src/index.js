@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.scss';
-import Signet from './Signet';
+import './sass/index.scss';
+import Signet from './composants/Signet';
 
 ReactDOM.render(
   <React.StrictMode>

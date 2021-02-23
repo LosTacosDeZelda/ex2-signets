@@ -1,13 +1,13 @@
-import "./Dossier.scss";
+import "../sass/Dossier.scss";
 import Sort from '@material-ui/icons/Sort';
-import FAB from '@material-ui/core/Fab'
+import IconButton from '@material-ui/core/IconButton';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import Fab from "@material-ui/core/Fab";
 
 export default function Dossier(props) {
 
   const styleDossier = {
-    backgroundImage: `url(img/${props.id}.png)`
+    backgroundImage: `url(images-dossiers/${props.id}.png)`
   };
 
   const styleInfo = {
@@ -26,7 +26,9 @@ export default function Dossier(props) {
         <div className="info" style={styleInfo}>
           <h3>{props.titre}</h3>
           <p>Modifié : {props.dateDeModif}</p>
-          <MoreVertIcon className='moreIcon' onClick={moreOptions}/>
+          <IconButton className='moreIcon' onClick={moreOptions}>
+            <MoreVertIcon color='action'/>
+          </IconButton>
         </div>
       </div>
     );

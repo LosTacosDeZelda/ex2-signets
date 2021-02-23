@@ -1,6 +1,6 @@
-import "./ListeDossiers.scss"
+import "../sass/ListeDossiers.scss"
 import Dossier from './Dossier';
-import tabDossier from "./data/dossier.json";
+import tabDossier from "../data/dossier.json";
 
 export default function ListeDossiers(props) {
     return (
