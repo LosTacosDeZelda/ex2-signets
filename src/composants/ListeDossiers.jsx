@@ -6,7 +6,7 @@ export default function ListeDossiers(props) {
     return (
         <section className="ListeDossiers">
             {tabDossier.map(signet => 
-            <Dossier id={signet.id} titre={signet.titre} couleur={signet.couleur} dateDeModif={signet.dateDeModif}/>
+            <Dossier key={signet.id} id={signet.id} titre={signet.titre} couleur={signet.couleur} dateDeModif={signet.dateDeModif}/>
         )}
         </section>
         

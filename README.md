@@ -1,3 +1,3 @@
 # Signetos de la familia
 
-Exersisse fantastiqqqque
+Prototype d'app React/Firebase développée dans le cadre du DEC en multimedia au College de Maisonneuve

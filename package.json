@@ -1,5 +1,5 @@
 {
-  "name": "ex1-signets",
+  "name": "signets",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage-inac": "https://lostacosdezelda.github.io/ex2-signets"
+  "homepage-inactif": "https://lostacosdezelda.github.io/ex2-signets"
 }
